@@ -2,7 +2,7 @@
     "name": "zszcq/huijupay",
     "description": "汇聚支付API",
     "type": "project",
-    "license": "apache2",
+    "license": "MIT",
     "authors": [
         {
             "name": "zszcq",

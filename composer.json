@@ -1,0 +1,21 @@
+{
+    "name": "zszcq/huijupay",
+    "description": "汇聚支付API",
+    "type": "project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "zszcq",
+            "email": "724748664@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.38"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zszcq\\Huijupay\\": "src/Zszcq/Huijupay"
+        }
+    }
+}
